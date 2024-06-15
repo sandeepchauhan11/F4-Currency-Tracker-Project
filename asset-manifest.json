@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sandeepchauhan11/F4-Currency-Tracker-Project.git/static/css/main.ce36819c.css",
+    "main.js": "/sandeepchauhan11/F4-Currency-Tracker-Project.git/static/js/main.e90b377e.js",
+    "index.html": "/sandeepchauhan11/F4-Currency-Tracker-Project.git/index.html",
+    "main.ce36819c.css.map": "/sandeepchauhan11/F4-Currency-Tracker-Project.git/static/css/main.ce36819c.css.map",
+    "main.e90b377e.js.map": "/sandeepchauhan11/F4-Currency-Tracker-Project.git/static/js/main.e90b377e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce36819c.css",
+    "static/js/main.e90b377e.js"
+  ]
+}
